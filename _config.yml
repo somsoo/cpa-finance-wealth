@@ -1,0 +1,8 @@
+﻿title: "웰스 앤 파이낸스 인사이트"
+description: "재테크, 가상화폐, 주식, 부동산 등 돈이 되는 금융 정보를 제공합니다."
+url: "https://wealth.enjoy-onepage.com"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
